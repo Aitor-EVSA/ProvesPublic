@@ -12,5 +12,5 @@
 
   - SGA
 
-    - [Introducció](Introduccio.md)
-    - [Recepcions](Recepcions.md)
+    - [Introducció](SGA/Introduccio.md)
+    - [Recepcions](SGA/Recepcions.md)
