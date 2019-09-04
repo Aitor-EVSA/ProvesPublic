@@ -1,4 +1,6 @@
-[Introducció](README.md)
+- General
+
+  - [Introducció](README.md)
   
 - Departaments
 
