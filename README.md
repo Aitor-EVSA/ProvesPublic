@@ -2,7 +2,7 @@
 
 Proves publiques per poder testejar docsify a GitHub Pages.
 
-## Et procul abstulit
+## Et quas abstulit
 
 Lorem markdownum ab gressus divis pectus nisi ora nocens crinem parum aperta
 fatali? Perque in illa has ora precor haesit, venas. Auctor Achaica: dextra lacu
