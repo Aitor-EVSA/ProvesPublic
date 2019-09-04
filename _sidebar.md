@@ -1,6 +1,6 @@
-- Informació General
+# Títol
 
-  - [General](README.md)
+[Introducció](README.md)
   
 - Departaments
 
@@ -8,7 +8,7 @@
   - [Vendes](Vendes.md)
   - [Magatzem](Magatzem.md)
 
-- Applicacions Externes
+- Aplicacions Externes
 
   - SGA
 
