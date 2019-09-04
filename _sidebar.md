@@ -1,5 +1,3 @@
-# Títol
-
 [Introducció](README.md)
   
 - Departaments
